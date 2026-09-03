@@ -1,0 +1,13 @@
+# Experiment artifacts (never part of the minimal source checkout)
+output/*
+!output/.gitkeep
+results/*
+!results/.gitkeep
+DATA/*
+!DATA/.gitkeep
+**/__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.tar
+*.pkl
