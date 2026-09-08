@@ -1,7 +1,7 @@
 # Frozen Template Envelope Projection for Vision-Language Prompt Tuning
 
 
-> Haoyang Li<sup>1,2</sup>, Liang Wang<sup>1,2</sup>, Chao Wang<sup>2</sup> and Yan Peng<sup>2</sup>. <br>
+> Haoyang Li<sup>1,2</sup>, Liang Wang<sup>1,2</sup>, Jing Jiang<sup>1</sup>, Chao Wang<sup>2</sup>, Guodong Long<sup>1</sup> and Yan Peng<sup>2</sup>. <br>
 > _<sup>1</sup>University of Technology Sydney &emsp; <sup>2</sup>Shanghai University_     <br>
 > 
 > _*This paper is submitted to **The Visual Computer** journal._
